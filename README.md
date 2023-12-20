@@ -17,10 +17,13 @@ In this project, you're going to create a backend API for a blog. This API will 
 ## API Collection
 
 Postman collection:
+
 https://api.postman.com/collections/27992524-0d83794a-12ce-4b35-aa51-9c819ddbf992?access_key=PMAT-01HJ4EP3KHRMWJ7S5PD33FG01C
 
 ## .env
 
 PORT =
+
 DATABASE = (your_mongodb_credential)
+
 SECRET_KEY = (fill_anything)
